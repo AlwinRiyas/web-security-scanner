@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Web Security Toolkit
 
 A beginner-friendly cybersecurity project built using Python to perform basic web security testing.
@@ -23,3 +24,6 @@ A beginner-friendly cybersecurity project built using Python to perform basic we
 ---
 
 ## 📁 Project Structure
+=======
+# web-security-scanner
+>>>>>>> 648792ae8c7e32271006b2adb4c225510dd0cc6b
